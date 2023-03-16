@@ -1,0 +1,83 @@
+*{
+    text-decoration: none;
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Times New Roman', Times, serif;
+}
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Times New Roman', Times, serif;
+    background:linear-gradient(45deg, #000,#5a5f7f);
+}
+.navbar-brand{
+    text-decoration: none;
+    font-size: 40px;
+    font-weight: 200;
+    font-family: 'Times New Roman', Times, serif;
+    color: #fff;
+    margin-left: 20px;
+}
+.navbar-toggler{
+    background-color: #fff;
+}
+.navbar-brand:hover{
+    color: #fff;
+}
+.nav-link{
+    color: #fff;
+    font-size: 23px;
+    font-weight: 100;
+}
+.nav-link:hover{
+    color: #fff;
+}
+.nav-tabs{
+    border-color: rgba(228, 201, 201, 0.732);
+}
+.dropdown-menu{
+    display: none;
+    position: absolute;
+    background: linear-gradient(45deg, #000,#5a5f7f);
+    min-width: 200px;
+    z-index: 1;
+}
+.dropdown-item{
+    background-color: linear-gradient(45deg, #000,#5a5f7f);
+    color: #fff;
+}
+.dropdown-divider{
+    background-color: #fff;
+}
+.shadow{
+    border-color: rgb(29, 29, 30);
+    background-color: #54555d;
+    padding: 0;
+    top: 0;
+}
+h2{
+    color: #fff;
+    font-size: 2em;
+}
+.btn{
+    color: #fff;
+    border-color: #fff;
+}
+.form-control{
+    border-color: #000;
+}
+hr{
+    color: #fff;
+}
+figure a{
+    text-decoration: none;
+    color: #fff;
+    font-size: 15px;
+    text-align: center;
+}
+figure a:hover{
+    color: green;
+}
+.btn:hover{
+    color: #fff;
+}
